@@ -1,0 +1,21 @@
+{
+  "name": "linkedlist",
+  "version": "0.1.1",
+  "description": "generic linked list implementation",
+  "devDependencies": {},
+  "dependencies": {
+    "jsdoc": "^3.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryaiitg/linkedlist.git"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "main": "index.js",
+  "keywords": [
+    "linkedlist",
+    "javascript"
+  ],
+  "author": "surya.iitg"
+}
