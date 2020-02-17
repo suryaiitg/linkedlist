@@ -1,14 +1,13 @@
 {
-  "name": "linkedlist",
+  "name": "@surya.iitg/linkedlist",
   "version": "0.1.1",
   "description": "generic linked list implementation",
   "devDependencies": {},
   "dependencies": {
-    "jsdoc": "^3.6.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suryaiitg/linkedlist.git"
+    "url": "git+https://github.com/suryaiitg/linkedlist.git"
   },
   "license": "MIT",
   "scripts": {},
@@ -17,5 +16,9 @@
     "linkedlist",
     "javascript"
   ],
-  "author": "surya.iitg"
+  "author": "surya.iitg",
+  "bugs": {
+    "url": "https://github.com/suryaiitg/linkedlist/issues"
+  },
+  "homepage": "https://github.com/suryaiitg/linkedlist#readme"
 }
