@@ -240,7 +240,7 @@ LinkedList.prototype.deleteById = function (id) {
 };
 
 /**
- Delete the node by id
+ Delete the node by index
 
  @param {Number} index of the node to be deleted
  @return {NodeElement | null} return the deleted node or null if not found
